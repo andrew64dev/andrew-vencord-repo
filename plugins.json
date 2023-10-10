@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "ReviewDB": {
+      "name": "ReviewDB",
+      "file": "ReviewDB.zip",
+      "description": "Leave reviews on other users' Discord profiles!"
+    },
+    "Uwuify": {
+      "name": "Uwuify",
+      "file": "uwuify.zip",
+      "description": "uwuifies your messages"
+    }
+  ]
+}
