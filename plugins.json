@@ -2,12 +2,12 @@
   "plugins": [
     "ReviewDB": {
       "name": "ReviewDB",
-      "file": "ReviewDB.zip",
+      "file": "https://github.com/andrew64dev/andrew-vencord-repo/raw/main/ReviewDB.zip",
       "description": "Leave reviews on other users' Discord profiles!"
     },
     "Uwuify": {
       "name": "Uwuify",
-      "file": "uwuify.ts",
+      "file": "https://github.com/andrew64dev/andrew-vencord-repo/raw/main/uwuify.ts",
       "description": "uwuifies your messages"
     }
   ]
