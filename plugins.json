@@ -2,7 +2,7 @@
   "repo": {
     "name": "Andrew's Vencord Repo",
     "description": "My Vencord Repo. Contains some removed plugins, and some extras."
-  }
+  },
   "plugins": [
     "ReviewDB": {
       "name": "ReviewDB",
