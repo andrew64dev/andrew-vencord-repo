@@ -4,12 +4,12 @@
     "description": "My Vencord Repo. Contains some removed plugins, and some extras."
   },
   "plugins": [
-    "ReviewDB": {
+    {
       "name": "ReviewDB",
       "file": "https://github.com/andrew64dev/andrew-vencord-repo/raw/main/ReviewDB.zip",
       "description": "Leave reviews on other users' Discord profiles!"
     },
-    "Uwuify": {
+    {
       "name": "Uwuify",
       "file": "https://github.com/andrew64dev/andrew-vencord-repo/raw/main/uwuify.ts",
       "description": "uwuifies your messages"
